@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    font-family: indie flower;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 1.8;
+    background-color:rgb(74, 98, 112);
+}
+div {
+    padding-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+p {
+    width: 600px;
+    border: solid 2px black;
+    margin: 10px;
+    padding-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 40px;
+}
+h1 {
+    padding-left: 12px;
+    font-size: 40px;
+}
